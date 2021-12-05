@@ -9,29 +9,29 @@
 <div align="center">
 <img src="life.jpg" alt="Pepe" width="170" />
 
-# Bosco Bot
+# CARVIN-SIR Bot
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> CARVIN-SIR Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
   ### Simple Method
   
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CARVINSER11/CARVIN-SIR-Qr-code?v=1) 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/CARVINSER11"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+918089847647?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-CARVINSER11-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/CARVINSER11/CARVIN-SIR#requirements">Requirements</a> •
+  <a href="https://github.com/CARVINSER11/CARVIN-SIR#simple method">Installation</a> •
+  <a href="https://github.com/CARVINSER11/CARVIN-SIR#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -82,7 +82,7 @@ you can contact us
 # Thanks to
 * Denis ser
 * [`Kriz ser`](https://github.com/KANNANSIR)
-* [`Pepe sir`](https://github.com/pepesir)
+* [`carvin sir`](https://github.com/CARVINSER11)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 
 
